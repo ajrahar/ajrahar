@@ -46,26 +46,6 @@ I'm a **Mobile Developer** with a Diploma from UNS, currently pursuing my Bachel
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajrahar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajrahar&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajrahar&theme=tokyonight&hide_border=true" alt="ajrahar" />
-</div>
-
----
-
 <div align="center">
   <p>Let's connect & collaborate!</p>
   <a href="https://www.linkedin.com/in/miftahul-fazi-0b13a31a3/">
