@@ -23,7 +23,6 @@ I'm a **Mobile Developer** with a Diploma from UNS, currently pursuing my Bachel
 
 ### 🛠️ Tech Stack & Tools
 
-📱 Mobile & Web Development
 <div align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -31,18 +30,15 @@ I'm a **Mobile Developer** with a Diploma from UNS, currently pursuing my Bachel
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
-
-📊 Data Science & Analytics
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/KNIME-FFDE00?style=for-the-badge&logo=knime&logoColor=black" />
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 </div>
-
-🌐 Geospatial & Backend Infrastructure
 <div align="center">
 <img src="https://img.shields.io/badge/GeoServer-40789E?style=for-the-badge&logo=geoserver&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -50,13 +46,12 @@ I'm a **Mobile Developer** with a Diploma from UNS, currently pursuing my Bachel
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
 </div>
-
-⚙️ Hardware & Workflow
 <div align="center">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
